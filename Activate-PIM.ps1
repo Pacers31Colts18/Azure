@@ -27,7 +27,6 @@ function Activate-PIM {
 .NOTES
     Author: Joe Loveless
     Date: 6/27/2025
-    Requires: SCCM PowerShell Module
     
 #>
     [CmdletBinding()]
